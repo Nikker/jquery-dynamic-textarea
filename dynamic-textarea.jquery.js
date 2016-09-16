@@ -1,3 +1,8 @@
+/*!
+ * jQuery Dynamic Textarea v0.0.1 (https://github.com/Nikker/jquery.dynamic-textarea)
+ * Copyright 2016 Nikki DelRosso
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
 if (typeof jQuery === 'undefined') {
 	throw 'jQuery is required to use the Dynamic Textarea jQuery extension';
 }
